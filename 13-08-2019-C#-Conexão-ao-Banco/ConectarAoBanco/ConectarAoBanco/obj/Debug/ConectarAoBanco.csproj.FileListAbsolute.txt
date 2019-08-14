@@ -1,0 +1,17 @@
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\ConectarAoBanco.exe.config
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\ConectarAoBanco.exe
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\ConectarAoBanco.pdb
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\MySql.Data.dll
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\Renci.SshNet.dll
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\bin\Debug\MySql.Data.xml
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.Form1.resources
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.Form2.resources
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.Properties.Resources.resources
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.csproj.CopyComplete
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.exe
+C:\Users\aluno\source\repos\ConectarAoBanco\ConectarAoBanco\obj\Debug\ConectarAoBanco.pdb
